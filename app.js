@@ -8,4 +8,4 @@ function sum(a, b, c) {
     console.log("Sum =", a + b);
 }
 
-sum(4, 7, 9);
+sum(4, 7);
