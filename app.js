@@ -4,7 +4,7 @@ console.log(b);
 
 console.log(a);
 
-function sum(a, b) {
+function sum(a, b, c) {
     console.log("Sum =", a + b);
 }
 
